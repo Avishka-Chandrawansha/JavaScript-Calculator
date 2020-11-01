@@ -8,6 +8,6 @@ Completed On: 01 November 2020
 
 # My Work
 
-![alt text](http://url/assets/Capture.PNG)
+![alt text](https://github.com/[Avishka-Chandrawansha]/[Javascript-Calculator]/blob/[assests]/Capture.PNG?raw=true
 
 

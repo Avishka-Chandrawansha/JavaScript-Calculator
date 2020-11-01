@@ -8,6 +8,6 @@ Completed On: 01 November 2020
 
 # My Work
 
-<img align="" alt="image" width="800px" height="450px" src="assets/Capture.PNG" />
+<img align="" alt="image" width="950px" height="450px" src="assets/Capture.PNG" />
 
 
